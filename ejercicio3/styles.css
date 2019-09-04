@@ -1,5 +1,34 @@
+
 .container
 {
     display: flex;
-    
+    flex-direction: column;
+    height: 100vh;
+    padding: 4px;
+}
+
+.chiquito
+{
+    display: flex;
+    width: 100%;
+    height: 33.3%;
+    margin: 0.5em;
+    flex-direction: row wrap;
+}
+
+.largo
+{
+
+    display: flex;
+    margin: 0.5em;
+    height: 33%;
+    background: rgb(134, 65, 123);
+}
+
+.contenedores
+{
+    background: rgb(114, 186, 189);
+    margin: 0.5em;
+    height: 100%;
+    width: 33.33%;
 }
