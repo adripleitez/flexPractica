@@ -27,4 +27,11 @@
     width:  99%;
     height: 10%;
     margin: auto;
+    vertical-align: center;
+    
+}
+
+p{
+    color: white;
+    text-align: center;
 }
